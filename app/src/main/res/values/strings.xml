@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ahmed Tikiwa</string>
+    <string name="yellow_star">Yellow star string resource</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elementum
+        bibendum odio quis dapibus. Mauris eu libero quis mauris lobortis pharetra et ac felis.
+        Vestibulum lacus justo, interdum at porta gravida, cursus vitae mi. Nulla id neque nisi.
+        Aenean nec elit nec dolor interdum lobortis. Nulla vel massa erat. Vivamus tincidunt ipsum
+        et varius luctus. Mauris sodales accumsan nibh a mollis. Pellentesque condimentum dictum
+        nulla, non accumsan ligula dapibus vitae. Maecenas consequat lectus quis lacus efficitur,
+        ac gravida risus vehicula.
+
+Nam congue est sed consectetur vestibulum. Ut viverra, erat at sagittis congue, nunc velit tincidunt
+        est, nec tincidunt eros urna sit amet ipsum. Cras ac vestibulum magna. Aenean volutpat est
+        neque, quis ornare eros ullamcorper eu. Curabitur rutrum id leo at auctor. Integer vitae
+        sodales risus. Cras vitae faucibus lacus. Maecenas felis metus, efficitur id odio nec,
+        pharetra elementum lorem. In tincidunt posuere lacinia. Proin felis magna, tristique a mi
+        at, auctor semper metus. Quisque et vestibulum justo. Vivamus sed cursus nibh, a semper est.
+        Phasellus cursus vulputate libero ac euismod. Integer neque risus, porta vitae hendrerit sed,
+        placerat a turpis. Proin aliquam, purus id sodales gravida, metus ante mollis ante, nec
+        finibus purus dolor eget neque. Sed facilisis hendrerit mi eget scelerisque.</string>
+    <string name="what_is_your_nickname">Nickname</string>
+    <string name="done">Done</string>
+</resources>
